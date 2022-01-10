@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "discord.js": "^13.5.1",
+    "luma-db": "^1.1.0"
+  }
+}
